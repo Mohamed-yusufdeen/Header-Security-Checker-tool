@@ -18,5 +18,7 @@ Insecure content delivery
 Information leakage
 
 HOW TO ACTIVATE:
+
 open the terminal 
-sudo git clone  
+sudo git clone : https://github.com/Mohamed-yusufdeen/Header-Security-Checker-tool.git
+
