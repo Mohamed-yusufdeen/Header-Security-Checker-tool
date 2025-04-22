@@ -23,3 +23,11 @@ open the terminal
 
 sudo git clone : https://github.com/Mohamed-yusufdeen/Header-Security-Checker-tool.git
 
+cd Header-Security-Checker-tool 
+
+sudo chmod + x Hsc.py  
+
+sudo python3 Hsc.py  
+
+and use the tool 
+
